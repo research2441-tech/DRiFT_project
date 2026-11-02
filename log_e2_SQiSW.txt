@@ -1,0 +1,13 @@
+[E2 SQiSW] Full   seed 0 coh 5.413e-04 cert 2.418e-03
+[E2 SQiSW] Full   seed 1 coh 4.849e-04 cert 2.082e-03
+[E2 SQiSW] Full   seed 2 coh 1.899e-04 cert 7.276e-04
+[E2 SQiSW] +B+C   seed 0 coh 6.236e-04 cert 3.977e-03
+[E2 SQiSW] +B+C   seed 1 coh 6.887e-04 cert 4.330e-03
+[E2 SQiSW] +B+C   seed 2 coh 7.252e-04 cert 4.642e-03
+[E2 SQiSW] +A+C   seed 0 coh 7.122e-04 cert 3.237e-03
+[E2 SQiSW] +A+C   seed 1 coh 1.957e-04 cert 8.428e-04
+[E2 SQiSW] +A+C   seed 2 coh 5.132e-04 cert 2.256e-03
+[E2 SQiSW] +A+B   seed 0 coh 6.711e-04 cert 3.134e-03
+[E2 SQiSW] +A+B   seed 1 coh 1.053e-03 cert 4.821e-03
+[E2 SQiSW] +A+B   seed 2 coh 2.523e-04 cert 9.072e-04
+done in 1742s

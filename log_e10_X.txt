@@ -1,0 +1,8 @@
+[E10 X] DRAG mean 1.660e-04
+[E10 X] GRAPE mean 1.867e-04
+[E10 X] Ensemble mean 1.681e-04
+[E10 X] QS-FO mean 1.673e-04
+[E10 X] FF-nominal mean 1.717e-04
+[E10 X] CVaR mean 1.674e-04
+[E10 X] DRiFT mean 1.562e-04
+done in 53s

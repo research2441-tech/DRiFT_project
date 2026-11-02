@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DRiFT: distributionally robust filter-function pulse synthesis for transmon gates under ambiguous noise spectra"
+version: 1.0.0
+date-released: 2026-11-01
+license: MIT
+authors:
+  - family-names: "Surname"
+    given-names: "Given-name"
+    affiliation: "Institution"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/<user>/DRiFT"
+keywords:
+  - robust quantum control
+  - filter functions
+  - distributionally robust optimization
+  - transmon qubits
+  - non-Markovian noise

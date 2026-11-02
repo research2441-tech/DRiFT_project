@@ -1,0 +1,22 @@
+Gate,Method,In-set envs (%),Coverage in-set (%),Coverage all (%),Median actual/cert,Median |pred-MC|/MC (%)
+X,Calibrated DRAG,14,100.0,100.0,0.276,3.1
+X,GRAPE (nominal),14,100.0,100.0,0.277,5.6
+X,Sampling-based robust,14,100.0,100.0,0.267,5.0
+X,Quasi-static first-order,14,100.0,100.0,0.259,4.3
+X,Filter function (nominal PSD),14,100.0,100.0,0.262,4.4
+X,Risk-aware CVaR,14,100.0,100.0,0.258,4.1
+X,DRiFT (proposed),14,100.0,100.0,0.244,3.7
+SX,Calibrated DRAG,14,100.0,100.0,0.257,3.3
+SX,GRAPE (nominal),14,100.0,100.0,0.262,3.5
+SX,Sampling-based robust,14,100.0,100.0,0.297,5.3
+SX,Quasi-static first-order,14,100.0,100.0,0.278,3.0
+SX,Filter function (nominal PSD),14,100.0,100.0,0.261,3.1
+SX,Risk-aware CVaR,14,100.0,100.0,0.278,3.0
+SX,DRiFT (proposed),14,100.0,100.0,0.270,3.3
+SQiSW,Calibrated DRAG,2,100.0,100.0,0.220,4.6
+SQiSW,GRAPE (nominal),2,100.0,100.0,0.198,4.5
+SQiSW,Sampling-based robust,2,100.0,100.0,0.141,4.5
+SQiSW,Quasi-static first-order,2,100.0,100.0,0.107,3.7
+SQiSW,Filter function (nominal PSD),2,100.0,100.0,0.123,4.2
+SQiSW,Risk-aware CVaR,2,100.0,100.0,0.228,4.8
+SQiSW,DRiFT (proposed),2,100.0,100.0,0.298,4.0

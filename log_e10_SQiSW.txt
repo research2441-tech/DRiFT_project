@@ -1,0 +1,8 @@
+[E10 SQiSW] DRAG mean 2.030e-03
+[E10 SQiSW] GRAPE mean 1.837e-03
+[E10 SQiSW] Ensemble mean 1.122e-03
+[E10 SQiSW] QS-FO mean 1.062e-03
+[E10 SQiSW] FF-nominal mean 1.171e-03
+[E10 SQiSW] CVaR mean 1.182e-03
+[E10 SQiSW] DRiFT mean 1.085e-03
+done in 284s
